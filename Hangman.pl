@@ -102,3 +102,57 @@ sub display0 { # display when 0 turns left
     print "___|___ \n \n";
 }
 
+sub display1 { # display when 1 turn left
+    print "    _______\n";
+    print "   |       |\n";
+    print "   |      \\O/  \n";
+    print "   |       |    \n";
+    print "   |      /     \n";
+    print "___|___ \n \n";
+}
+
+sub display2 { # display when 2 turns left
+    print "    _______\n";
+    print "   |       |\n";
+    print "   |      \\O/  \n";
+    print "   |       |    \n";
+    print "   |            \n";
+    print "___|___ \n \n";
+}
+
+sub display3 { # display when 3 turns left
+    print "    _______\n";
+    print "   |       |\n";
+    print "   |      \\O   \n";
+    print "   |       |    \n";
+    print "   |            \n";
+    print "___|___ \n \n";
+}
+
+sub display4 { # display when 4 turns left
+    print "    _______\n";
+    print "   |       |\n";
+    print "   |       O    \n";
+    print "   |       |    \n";
+    print "   |            \n";
+    print "___|___ \n \n";
+}
+
+sub display5 { # display when 5 turns left
+    print "    _______\n";
+    print "   |       |\n";
+    print "   |       O    \n";
+    print "   |            \n";
+    print "   |            \n";
+    print "___|___ \n \n";
+
+}
+
+sub display6 { # display when 6 turns left
+    print "    _______\n";
+    print "   |       |\n";
+    print "   |            \n";
+    print "   |            \n";
+    print "   |            \n";
+    print "___|___ \n \n";
+}
